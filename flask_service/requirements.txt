@@ -1,0 +1,4 @@
+flask==1.1.2
+pandas==1.2.3
+scikit-learn==0.24.1
+flask_restx==0.3.0
